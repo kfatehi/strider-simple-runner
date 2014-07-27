@@ -43,5 +43,9 @@
   "contributors": [
     "Peter Braden <peter@frozenridge.co> (http://frozenridge.co)",
     "Jared Forsyth"
-  ]
+  ],
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/Strider-CD/strider-simple-runner.git"
+  }
 }
